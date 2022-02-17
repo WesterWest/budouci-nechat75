@@ -131,14 +131,6 @@ p {
   color: #ffffff;
 }
 
-#vlakem {
-  height: auto;
-}
-
-#petice {
-  height: auto;
-}
-
 #petice iframe {
   height: 100%;
   width: 100%;
@@ -330,6 +322,14 @@ p {
   }
 
   #kdo-trati {
+    height: auto;
+  }
+
+  #vlakem {
+    height: auto;
+  }
+  
+  #petice {
     height: auto;
   }
 }
