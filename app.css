@@ -285,6 +285,10 @@ p {
   list-style: none;
 }
 
+.page {
+  height: 100vh;
+}
+
 @media only screen and (max-width: 1000px) {
   section {
     scroll-snap-align: none;
@@ -295,10 +299,6 @@ p {
 
   .snap-vertical {
     scroll-snap-align: none;
-  }
-
-  .page-vertical {
-    height: 100vh;
   }
 
   .split {
@@ -332,9 +332,17 @@ p {
   #petice {
     height: auto;
   }
+
+  #nechat {
+    width: 50%;
+  }
+
+  #eko {
+    height: auto;
+  }
 }
 
-@media only screen and (max-height: 800px) {
+@media only screen and (max-height: 915px) {
   :root {
     font-size: 16;
   }
