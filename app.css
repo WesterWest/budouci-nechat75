@@ -1,5 +1,4 @@
-@import url("http://fonts.cdnfonts.com/css/bahnschrift");
-/*@import url('http://fonts.cdnfonts.com/css/alte-din-1451-mittelschrift-gepraegt');*/
+@import url("bahnschrift.css");
 
 :root {
   --bg-color: hsl(0, 0%, 100%);
