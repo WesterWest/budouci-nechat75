@@ -1,4 +1,6 @@
 @import url("bahnschrift.css");
+@import url("barlow.css");
+
 
 :root {
   --bg-color: hsl(0, 0%, 100%);
@@ -10,7 +12,7 @@
   color: black;
   background-color: var(--bg-color);
   margin: 0;
-  font-family: "Bahnschrift", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+  font-family: "Bahnschrift", "Barlow", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
     "Helvetica Neue", sans-serif;
   font-size: 32;
   box-sizing: border-box;
