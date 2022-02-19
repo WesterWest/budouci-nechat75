@@ -214,6 +214,45 @@ p {
   padding: 20px 40px 15px 40px;
 }
 
+.social-buttons {
+  display: inline-block;
+}
+
+.bottom-buttons {
+   display: inline-flex;
+   gap: 1em;
+   flex-wrap: wrap;
+}
+
+.social-button {
+  background-color: #ffffff;
+  color: var(--purple-bg);
+  text-decoration: none;
+  font-weight: 900;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  line-height: 1;
+  width: fit-content;
+  margin-right: 1em;
+}
+
+.email-button {
+  background-color: var(--pink);
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 900;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  line-height: 1;
+  width: fit-content;
+  padding: 20px 20px 15px;
+}
+  
+
 .vertical {
   display: flex;
   flex-direction: column;
