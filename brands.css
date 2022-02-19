@@ -1,0 +1,21 @@
+/*!
+ * Font Awesome Free 5.14.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+@font-face {
+  font-family: "Font Awesome 5 Brands";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("https://cdn.glitch.com/61681333-90c3-4d53-a144-29d7c00e1226%2Ffa-brands-400.eot?v=1598876107311");
+  src: url("https://cdn.glitch.com/61681333-90c3-4d53-a144-29d7c00e1226%2Ffa-brands-400.eot?v=1598876107311?#iefix") format("embedded-opentype"),
+    url("https://cdn.glitch.com/61681333-90c3-4d53-a144-29d7c00e1226%2Ffa-brands-400.woff2?v=1598876107507") format("woff2"),
+    url("https://cdn.glitch.com/61681333-90c3-4d53-a144-29d7c00e1226%2Ffa-brands-400.woff?v=1598876107340") format("woff"),
+    url("https://cdn.glitch.com/61681333-90c3-4d53-a144-29d7c00e1226%2Ffa-brands-400.ttf?v=1598876107651") format("truetype"),
+    url("https://cdn.glitch.com/61681333-90c3-4d53-a144-29d7c00e1226%2Ffa-brands-400.svg?v=1598876109358#fontawesome") format("svg");
+}
+
+.fab {
+  font-family: "Font Awesome 5 Brands";
+  font-weight: 400;
+}
